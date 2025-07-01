@@ -1,0 +1,17 @@
+{
+  "name": "seo-news-2025",
+  "version": "1.0.0",
+  "description": "2025年SEO最新動向ガイド - Gemini × Claude AI協力調査レポート",
+  "main": "seo-news-2025.html",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'Static site - no build required'",
+    "start": "serve ."
+  },
+  "keywords": ["SEO", "2025", "AI", "Gemini", "Claude", "Web"],
+  "author": "Gemini AI × Claude AI",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
